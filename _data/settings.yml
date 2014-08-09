@@ -5,8 +5,6 @@ title:       Emanuel Baran
 description: Developer // Designer // Gamer
 email:       baranemanuel@gmail.com
 
-# NOTE: The Logo and Background image are defined in the all.sass document.
-
 menu:
 - {name: About Me,  url: '#about-me'}
 - {name: Work,      url: '#work'}
@@ -18,10 +16,6 @@ menu:
 
 #-------------------------------
 # About Section
-
-
-# NOTE: The avatar is defined in the all.sass document.
-
 
 blurb: |
   **I create solutions for problems** 
