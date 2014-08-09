@@ -1,0 +1,52 @@
+#-------------------------------
+# General Site Settings
+
+title:       Emanuel Baran
+description: Developer // Designer // Gamer
+email:       baranemanuel@gmail.com
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: About Me,  url: '#about-me'}
+- {name: Work,      url: '#work'}
+- {name: Blog, 		url: 'http://blog.emanuelbaran.dk'}
+- {name: Contact,   url: '#contact'}
+
+
+
+
+#-------------------------------
+# About Section
+
+
+# NOTE: The avatar is defined in the all.sass document.
+
+
+blurb: |
+  **I create solutions for problems** 
+  When I'm not tinkering with some front-end solutions, I write on [my blog](http://www.blog.emanuelbaran.dk)
+  or I fire up and [play some games](http://steamcommunity.com/id/baranemanuel).<br/>
+  You can also find me on [Twitter](https://twitter.com/emanuelbaran) // [G+](https://plus.google.com/+EmanuelBăran90) // [LinkedIn](http://dk.linkedin.com/in/emanuelbaran) 
+
+skills:
+- {name: Communication, value: '9'}
+- {name: Programming,   value: '7'}
+- {name: Design,        value: '8'}
+- {name: Teaching,      value: '8'}
+- {name: E-Concepts,    value: '7'}
+- {name: Web Design,    value: '8'}
+- {name: HTML/CSS,      value: '9'}
+- {name: JavaScript,    value: '6'}
+
+
+
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: Smash Urban Media,         folder: 'proj-1'}
+- {name: Game Fever,                folder: 'proj-2'}
+- {name: Naked Soul,                folder: 'proj-3'}
+- {name: HH Gulv, 					folder: 'proj-4'}
