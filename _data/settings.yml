@@ -46,7 +46,7 @@ skills:
 # Work Section
 
 projects:
-- {name: Smash Urban Media,         folder: 'work/proj-1'}
-- {name: Game Fever,                folder: 'work/proj-2'}
-- {name: Naked Soul,                folder: 'work/proj-3'}
-- {name: HH Gulv, 					folder: 'work/proj-4'}
+- {name: Smash Urban Media,         folder: '/proj-1'}
+- {name: Game Fever,                folder: '/proj-2'}
+- {name: Naked Soul,                folder: '/proj-3'}
+- {name: HH Gulv, 					folder: '/proj-4'}
