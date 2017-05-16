@@ -9,9 +9,6 @@ menu:
 - {name: About Me,  url: '#about-me'}
 - {name: Work,      url: '#work'}
 - {name: Blog, 		url: 'https://medium.com/@emanuelbaran'}
-- {name: Contact,   url: '#contact'}
-
-
 
 
 #-------------------------------
